@@ -20,7 +20,7 @@
 					</VideoClicks>
 					<MediaFiles>
 						<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
-							<![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
+							<![CDATA[https://file-examples.com/storage/fe519944ff66ba53b99c446/2017/04/file_example_MP4_480_1_5MG.mp4]]>
 						</MediaFile>
 					</MediaFiles>
 				</Linear>
